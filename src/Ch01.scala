@@ -34,6 +34,5 @@ object Ch01 extends App {
     print(i)
     i += 1
   }
-
 }
 
