@@ -1,0 +1,1 @@
+def f() : Unit = "The string gets lost"
